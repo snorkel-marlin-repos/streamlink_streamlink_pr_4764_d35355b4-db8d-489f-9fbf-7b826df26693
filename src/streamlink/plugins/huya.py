@@ -54,7 +54,7 @@ class Huya(Plugin):
                 {
                     "data": [{
                         "gameLiveInfo": {
-                            "liveId": str,
+                            "liveId": int,
                             "nick": str,
                             "roomName": str,
                         },
